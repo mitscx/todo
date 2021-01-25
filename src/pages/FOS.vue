@@ -1,0 +1,13 @@
+<template>
+  <div>fos</div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
